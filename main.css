@@ -1,6 +1,6 @@
 /*common element*/
 body {
-    font-size: 80%;
+    font-size: 75%;
     background-color: blue;
     margin: 0;
     padding: 0;
@@ -22,7 +22,8 @@ p {
     font-size: 1.25em;
     line-height: 1.2em;
     color: black;
-    margin: 0px 0.5em 0.75em 0px;
+    display: block;
+    margin: 0px 1em 1em 0px;
     padding: 0;
 }
 .contentWrapper {
@@ -46,7 +47,7 @@ header {
 nav {
     color: red;
     font-size: 1.7em;
-    letter-spacing: 0.04;
+    letter-spacing: normal;
     padding: 2em 1.0em 1.5em;
     margin: 1.0em 0;
 }
