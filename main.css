@@ -27,7 +27,7 @@ p {
 }
 .contentWrapper {
     margin: auto;
-    max-width: 1200px;
+    max-width: 120px;
     padding: 0 3.0em;
 }
 .left{
@@ -40,7 +40,7 @@ p {
 header {
     padding: 2.5 em 0 0.5em;
     margin: 0 0 2.0em;
-    background: brown;
+    background:green;
 }
 /*nav bars*/
 nav {
