@@ -69,4 +69,35 @@ nav li a:hover {
     background-color: rgba(252,251,243,0.75);
 }
 /*sidebare section*/
+section#Sidebar {
+    width: auto;
+    float: left;
+    position: relative;
+    display: block;
+    background-color: seagreen;
+    margin: 1.5em 0 2em 1.5em;
+    padding: 1 em 0.5em 1.5em 1em;
+    border: solid 5px;
+}
+button{
+    color: #C64322;
+    background-color:#fff;
+    display: inline-block;
+    margin: 0 0.75 0 0;
+    padding: 0.2em;
+    border: 1px solid #C64322;
+    text-transform: uppercase;
+}
+button:hover {
+    background-color: #FBF3DB;
+    border: 1px solid #745b2f;
+}
 /*footer*/
+footer {
+    background-color: #40362f;
+    height: 25px;
+    font-size: 1.2em;
+    color: #fff;
+    text-align: center;
+    padding: 1.5em 2.0em;
+}
