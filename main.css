@@ -1,28 +1,4 @@
 /*common element*/
-body{
-    background-color: red;
-    padding: 0;
-    margin: 0;
-}
-h1 {
-    color: black;
-    font-size: 1em;
-    margin: auto;
-    padding: 0;
-}
-h2{
-    color: #dc143c;
-    font-size: 2em;
-    margin: auto;
-    padding: 0;
-}
-p {
-    font-size: 1.5em;
-    line-height: normal;
-    margin: auto;
-    padding: 0px 0.5em 0.5em 0px;
-}
-/*header*/
-/*nav bars/
+/*nav bars*/
 /*sidebare section*/
 /*footer*/
